@@ -1,0 +1,18 @@
+
+Project Name:Hotel Aadithya
+Project Domain:Room Booking
+
+Project description:
+	My project Name is Hotel Aadithya  is a 3-star hotel located in Chennai.This hotel is elegantly designed rooms offer modern amenities for both business and leisure travelers.I have tested the website of Hotel aadithya.I have totally identify "50" Scenarios from this project.For every scenarios I have written and execute the testcases.I used testcase template Where we use header,body,footer.
+
+	I Performed the Smoke Testing,Functional Testing,Intergration Testing,Gobalization Testing,System Testing,Compatability Testing while performing these Testing this website,I found some bugs in the website there are "2" major bug the first one is in the home page module the check in checkout page are not intergrated properly to the next module the dates are not changing in search module .
+
+	The other main bug is the currency values are rupee, when we change the currency to other country currency the values are not changing in as per the country price.The 2 critical bug language option persent in top corner is not working fully other bug is when click search in "rooms and rates" stage the page "crashes" these are all the some bug I found while doing this project.This project took "6" days to complete.
+
+total defect:6
+	major:2
+	blocker:1
+	minor:2
+	critical:1
+
+
